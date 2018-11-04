@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>839141658703-2bn8nph9j1b4qlad2i896k19hlvdl67m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.839141658703-2bn8nph9j1b4qlad2i896k19hlvdl67m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsKZiM1J4FgK3LcW-5ra-B5uDapyodpiQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>839141658703</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Mawi.PixcellWorking</string>
+	<key>PROJECT_ID</key>
+	<string>pixcell-working</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pixcell-working.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:839141658703:ios:8ccb10a8eb1c319b</string>
+	<key>DATABASE_URL</key>
+	<string>https://pixcell-working.firebaseio.com</string>
+</dict>
+</plist>
